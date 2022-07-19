@@ -1,1 +1,1 @@
-# James-Webb-Space-Telescope-App
+# James Webb Space Telescope App
