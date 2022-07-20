@@ -13,10 +13,13 @@ st.image(
     width=120,
 )
 
-st.title("James Webb Space Telescope vs Hubble Telescope Images")
+st.header("J. Webb Space Telescope vs Hubble Telescope")
 
+st.write("")
+st.write("A simple tool to compare Webb's new images to Hubble!")
+st.write("")
 
-st.markdown("# Southern Nebula")
+st.markdown("### Southern Nebula")
 
 # render image-comparison
 image_comparison(
@@ -27,7 +30,7 @@ image_comparison(
 )
 
 
-st.markdown("# Galaxy Cluster SMACS 0723")
+st.markdown("### Galaxy Cluster SMACS 0723")
 
 # render image-comparison
 image_comparison(
